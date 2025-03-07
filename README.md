@@ -1,2 +1,2 @@
-# funding-rate-arbitrage
+# crypto-trading-bot
  
